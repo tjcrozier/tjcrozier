@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub profile :)
 
-My portfolio website -> [https://tjcrozier.github.io](https://tjcrozier.github.io) (under contruction)
+My portfolio website -> [https://tjcrozier.github.io](https://tjcrozier.github.io) (under construction)
 
 <!--
 **tjcrozier/tjcrozier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
