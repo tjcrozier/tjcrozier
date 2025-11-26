@@ -1,4 +1,5 @@
-## Hi there 👋<br>Welcome to my GitHub profile!<br>
+# Hi there 👋
+## Welcome to my GitHub profile!<br>
 # 💫 About Me:
 
 ## 🌐 Socials:
